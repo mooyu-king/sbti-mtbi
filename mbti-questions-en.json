@@ -1,0 +1,1026 @@
+[
+    {
+        "question": "When you go out for the whole day, you would",
+        "choice_a": {
+            "value": "J",
+            "text": "plan what you will do and when"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "go without a plan and decide as you go"
+        }
+    },
+    {
+        "question": "You think you are",
+        "choice_a": {
+            "value": "P",
+            "text": "more spontaneous"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "more organized"
+        }
+    },
+    {
+        "question": "If you were a teacher, you would rather teach",
+        "choice_a": {
+            "value": "S",
+            "text": "fact-based courses"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "theory-based courses"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "E",
+            "text": "find it easy to mingle with others"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "are more quiet or reserved"
+        }
+    },
+    {
+        "question": "Generally, you get along better with people who are",
+        "choice_a": {
+            "value": "N",
+            "text": "imaginative"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "realistic"
+        }
+    },
+    {
+        "question": "Do you often let",
+        "choice_a": {
+            "value": "F",
+            "text": "your feelings rule your reason"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "your reason rule your feelings"
+        }
+    },
+    {
+        "question": "When handling many things, you prefer to",
+        "choice_a": {
+            "value": "P",
+            "text": "act on impulse"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "follow a plan"
+        }
+    },
+    {
+        "question": "Are you",
+        "choice_a": {
+            "value": "E",
+            "text": "easy for others to get to know"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "hard for others to get to know"
+        }
+    },
+    {
+        "question": "Doing things according to a schedule",
+        "choice_a": {
+            "value": "J",
+            "text": "suits you"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "makes you feel constrained"
+        }
+    },
+    {
+        "question": "When you have a special task, you prefer to",
+        "choice_a": {
+            "value": "J",
+            "text": "carefully organize a plan before starting"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "figure out what to do while doing it"
+        }
+    },
+    {
+        "question": "In most situations, you would choose to",
+        "choice_a": {
+            "value": "P",
+            "text": "go with the flow"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "do things by a schedule"
+        }
+    },
+    {
+        "question": "Most people would say you are",
+        "choice_a": {
+            "value": "I",
+            "text": "private"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "very open and straightforward"
+        }
+    },
+    {
+        "question": "You would rather be seen as",
+        "choice_a": {
+            "value": "S",
+            "text": "down-to-earth"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "quick-witted"
+        }
+    },
+    {
+        "question": "In a large group, usually",
+        "choice_a": {
+            "value": "E",
+            "text": "you introduce people to each other"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "others introduce you"
+        }
+    },
+    {
+        "question": "You would make friends with people who",
+        "choice_a": {
+            "value": "N",
+            "text": "often come up with new ideas"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "are practical and grounded"
+        }
+    },
+    {
+        "question": "You tend to value",
+        "choice_a": {
+            "value": "F",
+            "text": "feelings more than logic"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "logic more than feelings"
+        }
+    },
+    {
+        "question": "You prefer to",
+        "choice_a": {
+            "value": "P",
+            "text": "wait and see before making plans"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "make plans early"
+        }
+    },
+    {
+        "question": "You like to spend a lot of time",
+        "choice_a": {
+            "value": "I",
+            "text": "by yourself"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "with other people"
+        }
+    },
+    {
+        "question": "Being with many people",
+        "choice_a": {
+            "value": "E",
+            "text": "energizes you"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "often drains you"
+        }
+    },
+    {
+        "question": "You prefer to",
+        "choice_a": {
+            "value": "J",
+            "text": "arrange appointments and social events well in advance"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "stay flexible and do whatever seems fun at the time"
+        }
+    },
+    {
+        "question": "When planning a trip, you prefer to",
+        "choice_a": {
+            "value": "P",
+            "text": "mostly follow how you feel each day"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "know in advance what you will do most days"
+        }
+    },
+    {
+        "question": "At social gatherings, you",
+        "choice_a": {
+            "value": "I",
+            "text": "sometimes feel bored or down"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "often enjoy yourself"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "E",
+            "text": "find it easy to mingle with others"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "tend to stay in your own corner"
+        }
+    },
+    {
+        "question": "You are more attracted to people who are",
+        "choice_a": {
+            "value": "N",
+            "text": "quick-thinking and very clever"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "practical and full of common sense"
+        }
+    },
+    {
+        "question": "In daily work, you",
+        "choice_a": {
+            "value": "P",
+            "text": "enjoy handling unexpected situations that keep you on your toes"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "usually plan ahead to avoid working under pressure"
+        }
+    },
+    {
+        "question": "You think others generally",
+        "choice_a": {
+            "value": "I",
+            "text": "take a long time to get to know you"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "get to know you quickly"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "I",
+            "text": "private"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "open"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "J",
+            "text": "planned"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "unplanned"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "N",
+            "text": "abstract"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "concrete"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "F",
+            "text": "gentle"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "firm"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "T",
+            "text": "thinking"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "feeling"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "S",
+            "text": "facts"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "ideas"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "P",
+            "text": "impulsive"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "decisive"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "E",
+            "text": "enthusiastic"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "quiet"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "I",
+            "text": "quiet"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "outgoing"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "J",
+            "text": "systematic"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "casual"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "N",
+            "text": "theoretical"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "certain"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "F",
+            "text": "sensitive"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "fair"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "T",
+            "text": "convincing"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "moving"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "S",
+            "text": "statement"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "concept"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "P",
+            "text": "unrestricted"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "prearranged"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "I",
+            "text": "reserved"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "talkative"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "J",
+            "text": "orderly"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "easygoing"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "N",
+            "text": "idea"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "reality"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "F",
+            "text": "compassionate"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "farsighted"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "T",
+            "text": "benefit"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "blessing"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "S",
+            "text": "practical"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "theoretical"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "I",
+            "text": "few friends"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "many friends"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "J",
+            "text": "systematic"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "improvised"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "N",
+            "text": "imaginative"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "matter-of-fact"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "F",
+            "text": "friendly"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "objective"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "T",
+            "text": "objective"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "warm"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "S",
+            "text": "build"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "invent"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "I",
+            "text": "quiet"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "sociable"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "N",
+            "text": "theory"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "facts"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "F",
+            "text": "compassionate"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "logical"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "T",
+            "text": "analytical"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "sentimental"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more? Focus on meaning, not sound.",
+        "choice_a": {
+            "value": "S",
+            "text": "reasonable"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "fascinating"
+        }
+    },
+    {
+        "question": "When you need to finish a big project within a week, at the beginning you would",
+        "choice_a": {
+            "value": "J",
+            "text": "list the different tasks in order"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "start working immediately"
+        }
+    },
+    {
+        "question": "In social situations, you often feel",
+        "choice_a": {
+            "value": "I",
+            "text": "it’s hard to start and keep a conversation with some people"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "comfortable talking at length with most people"
+        }
+    },
+    {
+        "question": "When doing something that many people do, you prefer to",
+        "choice_a": {
+            "value": "S",
+            "text": "follow generally accepted methods"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "come up with your own approach"
+        }
+    },
+    {
+        "question": "Can new friends tell what you are interested in?",
+        "choice_a": {
+            "value": "E",
+            "text": "yes, right away"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "only after they really get to know you"
+        }
+    },
+    {
+        "question": "You usually prefer subjects that",
+        "choice_a": {
+            "value": "N",
+            "text": "teach concepts and principles"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "teach facts and data"
+        }
+    },
+    {
+        "question": "Which is the higher praise?",
+        "choice_a": {
+            "value": "F",
+            "text": "consistently sensitive"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "consistently rational"
+        }
+    },
+    {
+        "question": "You think doing things by schedule",
+        "choice_a": {
+            "value": "P",
+            "text": "is sometimes necessary, but you generally don’t like it"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "is helpful most of the time and you like it"
+        }
+    },
+    {
+        "question": "When you’re with a group of people, you usually choose to",
+        "choice_a": {
+            "value": "I",
+            "text": "talk with a few people you know well"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "join the group conversation"
+        }
+    },
+    {
+        "question": "At a social gathering, you",
+        "choice_a": {
+            "value": "E",
+            "text": "talk a lot"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "let others do most of the talking"
+        }
+    },
+    {
+        "question": "Making a list of things to do over the weekend",
+        "choice_a": {
+            "value": "J",
+            "text": "appeals to you"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "makes you unmotivated"
+        }
+    },
+    {
+        "question": "Which is the higher praise?",
+        "choice_a": {
+            "value": "T",
+            "text": "capable"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "compassionate"
+        }
+    },
+    {
+        "question": "You usually prefer to",
+        "choice_a": {
+            "value": "J",
+            "text": "arrange social engagements in advance"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "act spontaneously"
+        }
+    },
+    {
+        "question": "Overall, when doing a big assignment, you prefer to",
+        "choice_a": {
+            "value": "P",
+            "text": "figure out what to do while doing it"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "break the work into steps first"
+        }
+    },
+    {
+        "question": "Can you talk nonstop with someone",
+        "choice_a": {
+            "value": "I",
+            "text": "only if you share common interests"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "with almost anyone"
+        }
+    },
+    {
+        "question": "You would",
+        "choice_a": {
+            "value": "S",
+            "text": "follow proven, effective methods"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "prefer to try a new or original way"
+        }
+    },
+    {
+        "question": "When you read for pleasure, you",
+        "choice_a": {
+            "value": "N",
+            "text": "enjoy unusual or innovative expressions"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "prefer it when the author is straightforward"
+        }
+    },
+    {
+        "question": "You would rather work for a boss (or teacher) who is",
+        "choice_a": {
+            "value": "T",
+            "text": "kind-natured but often inconsistent"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "sharp-tongued but always logical"
+        }
+    },
+    {
+        "question": "Most of the time, you do things",
+        "choice_a": {
+            "value": "P",
+            "text": "based on how you feel that day"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "according to a planned schedule"
+        }
+    },
+    {
+        "question": "Are you",
+        "choice_a": {
+            "value": "E",
+            "text": "able to talk with almost anyone when needed"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "only able to speak freely with certain people or in certain situations"
+        }
+    },
+    {
+        "question": "When making decisions, what matters more is",
+        "choice_a": {
+            "value": "T",
+            "text": "weighing the facts"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "considering others’ feelings and opinions"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "N",
+            "text": "imaginative"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "real"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "F",
+            "text": "kind and generous"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "strong-willed"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "T",
+            "text": "fair"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "caring"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "S",
+            "text": "make"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "design"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "N",
+            "text": "possibilities"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "necessities"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "F",
+            "text": "gentle"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "strength"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "T",
+            "text": "practical"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "sentimental"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "S",
+            "text": "manufacture"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "create"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "N",
+            "text": "novel"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "known"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "F",
+            "text": "sympathy"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "analysis"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "T",
+            "text": "stubborn"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "gentle and caring"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "S",
+            "text": "concrete"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "abstract"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "F",
+            "text": "wholehearted"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "determined"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "T",
+            "text": "capable"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "kind"
+        }
+    },
+    {
+        "question": "In each pair of words, which one appeals to you more?",
+        "choice_a": {
+            "value": "S",
+            "text": "practical"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "innovative"
+        }
+    }
+]
+
