@@ -1,0 +1,12 @@
+﻿.git/
+.wrangler/
+node_modules/
+functions/
+worker-entry.js
+wrangler*
+.assetsignore
+.env*
+.dev.vars*
+package.json
+package-lock.json
+npm-debug.log*
